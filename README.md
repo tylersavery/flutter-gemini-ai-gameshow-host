@@ -1,8 +1,11 @@
 # Flutter Gemini AI Game Show Host
 
-Let's creating an integration with Gemini using the new package google just released. Rather than the example file's StatefulWidget implementation, we'll use Riverpod + Freezed and structure the project a little better. And, we'll sprinkle in a little fun by giving our AI the personality of a gameshow host.
+Let's integrate with Gemini using the new package Google just released. 
 
-#flutter #coding #gemini #ai-chatbot
+Rather than the example file's StatefulWidget implementation, we'll use Riverpod + Freezed to structure the project better. And we'll sprinkle in a little fun by giving our AI the personality of a gameshow host.
+
+Video: https://youtu.be/xJ-Nr6H0cKs
+Package: https://pub.dev/packages/google_generative_ai
 
 ## Getting Started
 

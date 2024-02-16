@@ -82,7 +82,7 @@ packages:
     source: hosted
     version: "2.4.2"
   build_runner:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: build_runner
       sha256: "581bacf68f89ec8792f5e5a0b2c4decd1c948e97ce659dc783688c8a88fbec21"
@@ -284,7 +284,7 @@ packages:
     source: hosted
     version: "2.4.7"
   freezed_annotation:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: freezed_annotation
       sha256: c3fd9336eb55a38cc1bbd79ab17573113a8deccd0ecbbf926cca3c62803b5c2d
@@ -484,7 +484,7 @@ packages:
     source: hosted
     version: "0.5.1"
   riverpod_annotation:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: riverpod_annotation
       sha256: "77e5d51afa4fa3e67903fb8746f33d368728d7051a0b6c292bcee60aeba46d95"
@@ -492,7 +492,7 @@ packages:
     source: hosted
     version: "2.3.4"
   riverpod_generator:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: riverpod_generator
       sha256: "359068f04879347ae4edbe66c81cc95f83fa1743806d1a0c86e55dd3c33ebb32"
